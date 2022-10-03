@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: azure (253, 253, 253);
+  display: flex;
+  justify-content: center;
+  height: 610px;
+}
+section {
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.56);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.9px);
+  -webkit-backdrop-filter: blur(6.9px);
+}
+th {
+  text-align: center;
+}
+td {
+  text-align: center;
+}
